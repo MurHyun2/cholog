@@ -1,9 +1,9 @@
- ![1](/uploads/08e709754ec3b4868ac249c356991f09/image.png)
+ ![1](/docs/main.png)
 
 
 <br/>
 
-<img src="/uploads/91076571ec8b1325114e006d9af04969/logo.png" alt="cholog" align="right" height="100" />
+<img src="/docs/logo.png" alt="cholog" align="right" height="100" />
 
 <br/>
 <br/>
