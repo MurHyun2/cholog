@@ -66,3 +66,10 @@ Javascript와 Springboot에 SDK를 설치하여 프론트엔드-백엔드간 강
 로그 발생 시 웹훅을 통해 실시간으로 키워드, 환경을 구분하여 알림 전송을 받을 수 있습니다.
 
 ![image](https://github.com/user-attachments/assets/a931da04-565e-4682-af52-ca1ece3f9629)
+
+## 아키텍쳐
+![image](https://github.com/user-attachments/assets/d356f352-7c6b-4602-a103-e817655a6964)
+
+## ERD
+![image](https://github.com/user-attachments/assets/c7ad0056-3b46-428e-9267-3a287fd661a6)
+
