@@ -9,12 +9,11 @@
 <br/>
 
 # CHO:LOG
-### 🏆삼성 청년 SW아카데미(SSAFY) 12th 자율 프로젝트 최우수상🏆
 
 ![버전](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![라이센스](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![npm](https://img.shields.io/badge/npm-green?style=flat-square&logo=npm&logoColor=white)
-
+### 🏆삼성 청년 SW아카데미(SSAFY) 12th 자율 프로젝트 최우수상🏆
 <br />
 
 ## ✍️ 초보자를 위한 로그 관리
