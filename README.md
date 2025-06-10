@@ -1,6 +1,5 @@
  ![1](/docs/main.png)
 
-
 <br/>
 
 <img src="/docs/logo.png" alt="cholog" align="right" height="100" />
@@ -23,15 +22,11 @@ Javascript와 Springboot에 SDK를 설치하여 프론트엔드-백엔드간 강
 
 ### 소개 영상
 
-<a href="https://youtu.be/pXC5L9P7USs" target="_blank">
-  <img src="http://img.youtube.com/vi/pXC5L9P7USs/0.jpg" alt="Video Label"/>
-</a>
+[![Video Label](http://img.youtube.com/vi/pXC5L9P7USs/0.jpg)](https://youtu.be/pXC5L9P7USs)<br/>
 
 ### 시연 영상
 
-<a href="https://youtu.be/sSYBkw-DStk" target="_blank">
-  <img src="http://img.youtube.com/vi/sSYBkw-DStk/0.jpg" alt="Video Label"/>
-</a>
+[![Video Label](http://img.youtube.com/vi/sSYBkw-DStk/0.jpg)](https://youtu.be/sSYBkw-DStk)<br/>
 
 ## SDK 초간단 설치
 
@@ -78,7 +73,7 @@ Javascript와 Springboot에 SDK를 설치하여 프론트엔드-백엔드간 강
 
 ![image](https://github.com/user-attachments/assets/a931da04-565e-4682-af52-ca1ece3f9629)
 
-## 아키텍쳐
+## 아키텍처
 ![image](https://github.com/user-attachments/assets/d356f352-7c6b-4602-a103-e817655a6964)
 
 ## ERD
