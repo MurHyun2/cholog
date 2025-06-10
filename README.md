@@ -13,18 +13,25 @@
 ![버전](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![라이센스](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![npm](https://img.shields.io/badge/npm-green?style=flat-square&logo=npm&logoColor=white)
-### 🏆삼성 청년 SW아카데미(SSAFY) 12th 자율 프로젝트 최우수상🏆
-
-### 소개 영상
-[![Video Label](http://img.youtube.com/vi/pXC5L9P7USs/0.jpg)](https://youtu.be/pXC5L9P7USs)<br/>
-### 시연 영상
-[![Video Label](http://img.youtube.com/vi/sSYBkw-DStk/0.jpg)](https://youtu.be/sSYBkw-DStk)<br/>
+### 🏆삼성 청년 SW아카데미(SSAFY) 12th 자율 프로젝트 최우수상🏆<br/>
 
 ## ✍️ 초보자를 위한 로그 관리
 
 ‘CHO:LOG’는 초보 개발자에게 가장 쉽고 똑똑한 로그 관리 방법을 제공합니다.
 
 Javascript와 Springboot에 SDK를 설치하여 프론트엔드-백엔드간 강력한 통합 로그 관리를 시작해보세요.
+
+### 소개 영상
+
+<a href="https://youtu.be/pXC5L9P7USs" target="_blank">
+  <img src="http://img.youtube.com/vi/pXC5L9P7USs/0.jpg" alt="Video Label"/>
+</a>
+
+### 시연 영상
+
+<a href="https://youtu.be/sSYBkw-DStk" target="_blank">
+  <img src="http://img.youtube.com/vi/sSYBkw-DStk/0.jpg" alt="Video Label"/>
+</a>
 
 ## SDK 초간단 설치
 
