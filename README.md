@@ -14,10 +14,13 @@
 ![라이센스](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![npm](https://img.shields.io/badge/npm-green?style=flat-square&logo=npm&logoColor=white)
 ### 🏆삼성 청년 SW아카데미(SSAFY) 12th 자율 프로젝트 최우수상🏆
-<br />
+
+### 소개 영상
+[![Video Label](http://img.youtube.com/vi/pXC5L9P7USs/0.jpg)](https://youtu.be/pXC5L9P7USs)<br/>
+### 시연 영상
+[![Video Label](http://img.youtube.com/vi/sSYBkw-DStk/0.jpg)](https://youtu.be/sSYBkw-DStk)<br/>
 
 ## ✍️ 초보자를 위한 로그 관리
-
 
 ‘CHO:LOG’는 초보 개발자에게 가장 쉽고 똑똑한 로그 관리 방법을 제공합니다.
 
